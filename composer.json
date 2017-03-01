@@ -1,0 +1,12 @@
+{
+  "name": "magium/messaging",
+  "description": "Interfaces for use with a generic messaging platform",
+  "minimum-stability": "stable",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Kevin Schroeder",
+      "email": "kschroeder@magiumlib.com"
+    }
+  ]
+}
