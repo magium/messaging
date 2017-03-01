@@ -8,5 +8,10 @@
       "name": "Kevin Schroeder",
       "email": "kschroeder@magiumlib.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Magium\\Messaging\\": "lib"
+    }
+  }
 }
