@@ -13,4 +13,6 @@ interface ConnectionInterface
 
     public function createSession();
 
+    public function connect();
+
 }
